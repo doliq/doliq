@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at the State Polytechnic of Malang<br>👯 I’m looking to collaborate on Game Development<br>🤝 I’m currently internship with Kawan Kerja<br>🌱 I’m currently learning Unreal Engine 5<br>💬 You can call me Oliq<br>⚡ I like to sleep, but it's hard to make me fall asleep
+🔭 I recently graduated from the State Polytechnic of Malang.<br>👯  I'm looking to collaborate on game development.<br>🤝 I once interned at Kawan Kerja.<br>🌱 I’m currently learning Unreal Engine 5<br>💬 You can call me Oliq<br>⚡ I like to sleep, but it's hard to make me fall asleep
 
 
 ## 🌐 Socials:
